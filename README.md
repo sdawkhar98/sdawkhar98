@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sdawkhar98
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data analytics
+- 👀 I’m interested in MERN
+- 🌱 I’m currently learning MERN Stack
 - 📫 reach me @ sdawkhar98@gmail.com
 
 <!---
